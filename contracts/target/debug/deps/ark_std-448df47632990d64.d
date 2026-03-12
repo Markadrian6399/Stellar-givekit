@@ -1,0 +1,12 @@
+/home/mark/Downloads/josie/stellar-givekit/contracts/target/debug/deps/ark_std-448df47632990d64.d: /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/lib.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/io/mod.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/io/error.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/error.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/rand_helper.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/perf_trace.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/iterable/mod.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/iterable/rev.rs
+
+/home/mark/Downloads/josie/stellar-givekit/contracts/target/debug/deps/libark_std-448df47632990d64.rmeta: /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/lib.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/io/mod.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/io/error.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/error.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/rand_helper.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/perf_trace.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/iterable/mod.rs /home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/iterable/rev.rs
+
+/home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/lib.rs:
+/home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/io/mod.rs:
+/home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/io/error.rs:
+/home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/error.rs:
+/home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/rand_helper.rs:
+/home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/perf_trace.rs:
+/home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/iterable/mod.rs:
+/home/mark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.4.0/src/iterable/rev.rs:
