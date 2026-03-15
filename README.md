@@ -142,7 +142,7 @@ stellar-givekit/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/stellar-givekit.git
+git clone https://github.com/Markadrian6399/stellar-givekit.git
 cd stellar-givekit
 ```
 
